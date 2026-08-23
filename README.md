@@ -161,38 +161,5 @@ If you find something useful, consider giving the repository a ⭐.
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-
-<img width="2256" height="1304" alt="home-page png (2)" src="https://github.com/user-attachments/assets/7fb67bdb-6792-456c-8329-a07bd2efaa49" />
-
-
-
-
-### 🔎 Search Results
-<img width="2256" height="1314" alt="search-results png1" src="https://github.com/user-attachments/assets/ef4d4bc9-6f85-41e7-b50d-2a6ce3be90a3" />
-
-
-
-### 🍽️ Recipe Details
-
-<img width="2255" height="1307" alt="recipe-details png1" src="https://github.com/user-attachments/assets/5f813ff1-dfb1-4006-9927-1d52fb9992db" />
-
-<img width="2256" height="1325" alt="recipe-details png2" src="https://github.com/user-attachments/assets/323e511a-c311-4fa9-aa9d-4c88bfd33d3f" />
-
-<img width="2256" height="1318" alt="recipe-details png3" src="https://github.com/user-attachments/assets/668078ba-b9d2-4dd6-bbf9-de514839872e" />
-
-
-
-
-### 🇵🇰 Urdu Translation
-<img width="2256" height="1319" alt="urdu-translation png" src="https://github.com/user-attachments/assets/72ea76c5-059f-4c45-a450-81023bf5eb9f" />
-
-<img width="2256" height="1303" alt="urdu-translation png2" src="https://github.com/user-attachments/assets/a66c0ff4-74db-4183-8b05-671b51fc7571" />
-
-
-### 🤖 Kitchen AI
-
-<img width="2256" height="1324" alt="kitchen-ai png" src="https://github.com/user-attachments/assets/adc4a134-bdbc-4251-a894-044f10297da1" />
 
