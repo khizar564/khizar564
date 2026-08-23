@@ -157,3 +157,29 @@ A simple expense tracking application for managing and monitoring personal expen
 Feel free to explore my repositories and projects.
 
 If you find something useful, consider giving the repository a ⭐.
+
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page]<img width="2256" height="1504" alt="home-page png (2)" src="https://github.com/user-attachments/assets/0fd7030f-545d-4af8-a86a-6c411354a971" />
+
+
+### 🔎 Search Results
+
+![Search Results](search-results.png)
+
+### 🍽️ Recipe Details
+
+![Recipe Details](recipe-details.png)
+
+### 🇵🇰 Urdu Translation
+
+![Urdu Translation](urdu-translation.png)
+
+### 🤖 Kitchen AI
+
+![Kitchen AI](kitchen-ai.png)
