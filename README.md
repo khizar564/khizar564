@@ -165,21 +165,27 @@ If you find something useful, consider giving the repository a ⭐.
 
 ### 🏠 Home Page
 
-![Home Page]<img width="2256" height="1504" alt="home-page png (2)" src="https://github.com/user-attachments/assets/0fd7030f-545d-4af8-a86a-6c411354a971" />
+<img width="2256" height="1304" alt="home-page png (2)" src="https://github.com/user-attachments/assets/242abf41-c309-4d61-b793-eafdd39ab8bb" />
+
 
 
 ### 🔎 Search Results
+<img width="2256" height="1314" alt="search-results png1" src="https://github.com/user-attachments/assets/deb7a45b-8161-4226-b7f3-96945b937fdb" />
 
-![Search Results](search-results.png)
 
 ### 🍽️ Recipe Details
 
-![Recipe Details](recipe-details.png)
+<img width="2255" height="1307" alt="recipe-details png1" src="https://github.com/user-attachments/assets/b60efd99-fd80-44f1-8209-02c04ea48c83" />
+<img width="2256" height="1374" alt="recipe-details png2" src="https://github.com/user-attachments/assets/b73857cb-6cd9-4e7a-ae0f-2764401b29bf" />
+<img width="2256" height="1367" alt="recipe-details png3" src="https://github.com/user-attachments/assets/5f825efb-7f09-4bb7-8145-05f171bafba3" />
+
+
 
 ### 🇵🇰 Urdu Translation
-
-![Urdu Translation](urdu-translation.png)
+<img width="2256" height="1363" alt="urdu-translation png" src="https://github.com/user-attachments/assets/626d1eaa-46d6-41cb-b373-9bd50ed809a6" />
+<img width="2256" height="1357" alt="urdu-translation png2" src="https://github.com/user-attachments/assets/a09c1269-078f-4a0b-bfca-f2af030dbfee" />
 
 ### 🤖 Kitchen AI
 
-![Kitchen AI](kitchen-ai.png)
+<img width="2256" height="1360" alt="kitchen-ai png" src="https://github.com/user-attachments/assets/9a3ed98a-bd7b-4058-a61a-7e954d1eb16d" />
+
