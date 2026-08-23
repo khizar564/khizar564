@@ -147,8 +147,7 @@ A simple expense tracking application for managing and monitoring personal expen
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@khizar564](https://github.com/khizar564)
-- 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: Coming Soon
+
 
 ---
 
